@@ -76,12 +76,12 @@ Email: sharmaji@iscb.org Tel: +91 799 515 8734
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MahendraSingh&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahendraSingh&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahendrasingh&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahendra687&theme=tokyonight" />
 </p>
 
 
-[![Mahendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=mahendrasingh&theme=xcode)](https://git.io/mahendrasingh)
+[![Mahendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mahendra687&theme=xcode)](https://git.io/mahendrasingh)
 
 </p>
 <hr />
