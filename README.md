@@ -56,7 +56,8 @@ Feel free to connect with me here:
 
 ## Learning Platform:
 [NPTEL](https://nptel.ac.in/). | 
-[Future Learn](https://www.futurelearn.com/). | [Metagenomics](https://sites.google.com/site/wiki4metagenomics/pdf?authuser=0).
+[Future Learn](https://www.futurelearn.com/). | [Metagenomics](https://sites.google.com/site/wiki4metagenomics/pdf?authuser=0). |
+[MIT OpenCourseWare](https://www.youtube.com/c/mitocw). | [Stanfordonline](https://www.youtube.com/user/stanfordonline).
 </p>
 <hr />
 
