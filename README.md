@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi, Great to see you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Mahendra, and I have done PGDiploma in Biological Data Analytics from [SCIS, Jawaharlal Nehru University, New Delhi](https://jnu.ac.in/scis). Apart from that, I have a master in Bioinformatics from [UIET, CSJM University,Kanpur](http://csjmu.ac.in/uiet-kanpur/departments/computer-science-and-engineering/). and have a bachelor in Biotechnology from [AKS University, Satna](https://www.aksuniversity.ac.in/index.php/academics/life-sciences-technology). And my ultimate goal is to pursue including areas of research interest in Bioinformatics; Omics data science, metabolomics engineering, Computational drug discovery, RNAi biology and Data Science: Machine learning, AI, and NLP to solve the biological and health care problems.
+I am Mahendra, and I have done PGDiploma in Biological Data Analytics from [SCIS, Jawaharlal Nehru University, New Delhi](https://jnu.ac.in/scis). apart from that, I have a master in Bioinformatics from [UIET, CSJM University, Kanpur](http://csjmu.ac.in/uiet-kanpur/departments/computer-science-and-engineering/) and have a bachelor in Biotechnology from [AKS University, Satna](https://www.aksuniversity.ac.in/index.php/academics/life-sciences-technology). And my ultimate goal is to pursue including areas of research interest in Bioinformatics; Omics data science, metabolomics engineering, Computational drug discovery, RNAi biology and Data Science: Machine learning, AI, and NLP to solve the biological and health care problems.
  
  
 ### Key area of research interest: I have developed a keen interest to apply the knowledge I would gain in
@@ -55,9 +55,9 @@ Feel free to connect with me here:
 <hr />
 
 ## Learning Platform:
-[NPTEL](https://nptel.ac.in/). | 
-[Future Learn](https://www.futurelearn.com/). | [Metagenomics](https://sites.google.com/site/wiki4metagenomics/pdf?authuser=0). |
-[MIT OpenCourseWare](https://www.youtube.com/c/mitocw). | [Stanfordonline](https://www.youtube.com/user/stanfordonline).
+[NPTEL](https://nptel.ac.in/) | 
+[Future Learn](https://www.futurelearn.com/) | [Metagenomics](https://sites.google.com/site/wiki4metagenomics/pdf?authuser=0) |
+[MIT OpenCourseWare](https://www.youtube.com/c/mitocw) | [Stanfordonline](https://www.youtube.com/user/stanfordonline) |  [Brilliant.org](https://brilliant.org/home/)
 </p>
 <hr />
 
