@@ -10,9 +10,10 @@ I am Mahendra, and I have done PGDiploma in Biological Data Analytics from [SCIS
  
 ### Key area of research interest: I have developed a keen interest to apply the knowledge I would gain in
 - Omics data science: Genomics, Transcriptomics, Proteomics and Metabolomics
-- Structural Biology: drug discovery
+- Structural Biology: drug discovery and image analysis
 - RNAi Biology: miRNA, lncRNA and eRNA
 - Data Science: ML, AI and NLP
+- Healthcare: mobile health (mhealth) and Personalized medicine
 
  
 </p>
