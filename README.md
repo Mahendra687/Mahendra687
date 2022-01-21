@@ -21,6 +21,7 @@ I am Mahendra, and I have done PGDiploma in Biological Data Analytics from [SCIS
 <h2 align="center">Social Media</h2> 
 Feel free to connect with me here:
 
+[![Discord Badge](https://img.shields.io/badge/-mahendrasingh-white?style=flat-square&logo=discord&logoColor=black&link=https://discord.com/login?redirect_to=%2Fchannels%2FMahendra%2520Singh)](https://discord.com/login?redirect_to=%2Fchannels%2FMahendra%2520Singh)
 [![Linkedin Badge](https://img.shields.io/badge/-mahendrasingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahendra-singh-5aa7216b/)](https://www.linkedin.com/in/mahendra-singh-5aa7216b/)
 [![Twitter Badge](https://img.shields.io/badge/-mahendrasingh-white?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/smahendra360)](https://twitter.com/smahendra360)
 [![Gmail Badge](https://img.shields.io/badge/-mahendras948@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahendras94@gmail.com)](mailto:mahendras94@gmail.com)
