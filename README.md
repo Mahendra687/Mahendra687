@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi, Great to see you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Mahendra, and I have done PGDiploma Big Data Analytics in Biology from [SCIS, Jawaharlal Nehru University, New Delhi](https://jnu.ac.in/scis) apart from that, I have a master in Bioinformatics from [UIET, CSJM University, Kanpur](http://csjmu.ac.in/uiet-kanpur/departments/computer-science-and-engineering/) and have a bachelor in Biotechnology from [AKS University, Satna](https://www.aksuniversity.ac.in/index.php/academics/life-sciences-technology). And my ultimate goal is to pursue including areas of research interest in Bioinformatics;Omics data science, metabolomics engineering, Computational drug discovery, RNAi biology and Data Science: Machine learning, AI, and NLP to solve the biological and health care problems.
+I am Mahendra, and I have done PGDiploma Big Data Analytics in Biology from [SCIS, Jawaharlal Nehru University, New Delhi](https://jnu.ac.in/scis) apart from that, I have a master in Bioinformatics from [UIET, CSJM University, Kanpur](http://csjmu.ac.in/uiet-kanpur/departments/computer-science-and-engineering/) and have a bachelor in Biotechnology from [AKSU, Satna](https://www.aksuniversity.ac.in/index.php/academics/life-sciences-technology). And my ultimate goal is to pursue including areas of research interest in Bioinformatics: Omics data science, metabolomics engineering, Computational drug discovery, RNAi biology and Data Science: Machine learning, AI, and NLP to solve the biological and health care problems.
  
  
 ### Key area of research interest: I have developed a keen interest to apply the knowledge I would gain in
@@ -14,18 +14,11 @@ I am Mahendra, and I have done PGDiploma Big Data Analytics in Biology from [SCI
 - RNAi Biology: miRNA, lncRNA and eRNA
 - Data Science: ML, AI and NLP
 - Healthcare: mobile health (mhealth) and Personalized medicine
-
- 
-</p>
-<hr />
-<h2 align="center">Social Media</h2> 
-Feel free to connect with me here:
-
-[![Discord Badge](https://img.shields.io/badge/-mahendrasingh-white?style=flat-square&logo=discord&logoColor=black&link=https://discord.com/login?redirect_to=%2Fchannels%2FMahendra%2520Singh)](https://discord.com/login?redirect_to=%2Fchannels%2FMahendra%2520Singh)
-[![Linkedin Badge](https://img.shields.io/badge/-mahendrasingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahendra-singh-5aa7216b/)](https://www.linkedin.com/in/mahendra-singh-5aa7216b/)
-[![Twitter Badge](https://img.shields.io/badge/-mahendrasingh-white?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/smahendra360)](https://twitter.com/smahendra360)
-[![Gmail Badge](https://img.shields.io/badge/-mahendras948@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahendras94@gmail.com)](mailto:mahendras94@gmail.com)
-
+## 💫About Me :
+- :seedling: I am currently entering into Deep learning and AI.
+- :v: I'm open to opportunities.
+- :zap: Fun fact: I like to watch fiction movies and Eat, Read and Sleep
+- :handshake: If you want any collaboration feel free to connet with me at 🌐 Socials: [![Discord Badge](https://img.shields.io/badge/-mahendrasingh-white?style=flat-square&logo=discord&logoColor=black&link=https://discord.com/login?redirect_to=%2Fchannels%2FMahendra%2520Singh)](https://discord.com/login?redirect_to=%2Fchannels%2FMahendra%2520Singh) [![Linkedin Badge](https://img.shields.io/badge/-mahendrasingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahendra-singh-5aa7216b/)](https://www.linkedin.com/in/mahendra-singh-5aa7216b/) [![Twitter Badge](https://img.shields.io/badge/-mahendrasingh-white?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/smahendra360)](https://twitter.com/smahendra360) 
 ## ⚡ Technologies
 
 ### Language :
@@ -73,7 +66,7 @@ Prof. Shandar Ahmad, Professor, SCIS-JNU New Delhi, India.
 Email: shandar@jnu.ac.in Tel: 7290889021 
 
 Mr. Praharshit Sharma, Bioinformatics Specialist, 
-at NCDC:National Centre for Disease Control, New Delhi,
+at National Centre for Disease Control, New Delhi,
 Email: sharmaji@iscb.org Tel: +91 799 515 8734
 </p>
 <hr />
@@ -90,7 +83,8 @@ Email: sharmaji@iscb.org Tel: +91 799 515 8734
 ![Profile views](https://gpvc.arturio.dev/mahendrasingh?v=3)
 
 
-
+### ✍️Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
