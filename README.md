@@ -86,7 +86,8 @@ Email: sharmaji@iscb.org Tel: +91 799 515 8734
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahendra687&theme=tokyonight" />
 </p>
 
-
+<!-- Profile Views Counter -->
+![Profile views](https://gpvc.arturio.dev/mahendrasingh?v=3)
 
 
 
