@@ -42,6 +42,7 @@ Feel free to connect with me here:
 <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit-learn%20-%23013243.svg?logo=scikit-learn&logoColor=white"></a>
 <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
 <a href="#"><img alt="Bioconductor" src="https://img.shields.io/badge/Bioconductor%20-%23150458.svg?logo=bioconductor&logoColor=blue"></a>
+<a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy%20-%23D00000.svg?logo=SciPy&logoColor=blue"></a>
 
 ### Notebook:
 
@@ -53,6 +54,7 @@ Feel free to connect with me here:
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 </p>
 <hr />
 
@@ -77,17 +79,20 @@ Email: sharmaji@iscb.org Tel: +91 799 515 8734
 <hr />
 
 ## 📈 Stats
+[![Mahendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mahendra687&theme=xcode)](https://git.io/mahendrasingh)
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahendrasingh&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahendrasingh&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahendra687&theme=tokyonight" />
-	
 </p>
 
-[![Mahendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mahendra687&theme=xcode)](https://git.io/mahendrasingh)
 
-</p>
-<hr />
+
+
+
+
+
+
 
 #### Thank you, for visiting my GitHub profile!!
 
