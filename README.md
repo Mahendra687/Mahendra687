@@ -1,19 +1,13 @@
-<!---
-Mahendras948/Mahendras948 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<!-- Profile Views Counter -->
+![Profile views](https://gpvc.arturio.dev/mahendrasingh?v=3)
 ## Hi, Great to see you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-I am Mahendra, and I have done PGDiploma Big Data Analytics in Biology from [SCIS, Jawaharlal Nehru University, New Delhi](https://jnu.ac.in/scis) apart from that, I have a master in Bioinformatics from [UIET, CSJM University, Kanpur](http://csjmu.ac.in/uiet-kanpur/departments/computer-science-and-engineering/) and have a bachelor in Biotechnology from [AKSU, Satna](https://www.aksuniversity.ac.in/index.php/academics/life-sciences-technology). And my ultimate goal is to pursue including areas of research interest in Bioinformatics: Omics data science, metabolomics engineering, Computational drug discovery, RNAi biology and Data Science: Machine learning, AI, and NLP to solve the biological and health care problems.
- 
- 
+> I am Mahendra, and I have done PGDiploma Big Data Analytics in Biology from [SCIS, Jawaharlal Nehru University, New Delhi](https://jnu.ac.in/scis) apart from that, I have a master in Bioinformatics from [UIET, CSJM University, Kanpur](http://csjmu.ac.in/uiet-kanpur/departments/computer-science-and-engineering/) and have a bachelor in Biotechnology from [AKSU, Satna](https://www.aksuniversity.ac.in/index.php/academics/life-sciences-technology). And my ultimate goal is to pursue including areas of research interest in Bioinformatics: Omics data science, metabolomics engineering, Computational drug discovery, RNAi biology and Data Science: Machine learning, AI, and NLP to solve the biological and health care problems.
 ### Key area of research interest: I have developed a keen interest to apply the knowledge I would gain in
-- Omics data science: Genomics, Transcriptomics, Proteomics and Metabolomics
-- Structural Biology: drug discovery and image analysis
-- RNAi Biology: miRNA, lncRNA and eRNA
-- Data Science: ML, AI and NLP
-- Healthcare: mobile health (mhealth) and Personalized medicine
+> * Omics data science: the link between gene, protein and diseases
+> * Data Science: ML, AI, NLP and Biological Image Analysis
+> * Structural Biology: drug discovery 
+> * RNAi Biology: miRNA, lncRNA and eRNA
+
 ## 💫About Me :
 - :seedling: I am currently entering into Deep learning and AI.
 - :v: I'm open to opportunities.
@@ -79,14 +73,8 @@ Email: sharmaji@iscb.org Tel: +91 799 515 8734
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahendra687&theme=tokyonight" />
 </p>
 
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/mahendrasingh?v=3)
-
-
-### ✍️Random Quote
+## Random Quote..✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
 
 
 #### Thank you, for visiting my GitHub profile!!
