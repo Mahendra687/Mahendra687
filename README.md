@@ -30,6 +30,7 @@
 <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
 <a href="#"><img alt="Bioconductor" src="https://img.shields.io/badge/Bioconductor%20-%23150458.svg?logo=bioconductor&logoColor=blue"></a>
 <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy%20-%23D00000.svg?logo=SciPy&logoColor=blue"></a>
+<a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit%20-%23D00000.svg?logo=Streamlit&logoColor=blue"></a>
 
 ### Notebook:
 
