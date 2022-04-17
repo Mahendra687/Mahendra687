@@ -35,12 +35,12 @@
 <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy%20-%23D00000.svg?logo=SciPy&logoColor=blue"></a>
 <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit%20-%23D00000.svg?logo=Streamlit&logoColor=blue"></a>
 
-#### Notebook:
+#### Notebook
 
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
 
   
-#### Cloud and Version Control Tools:
+#### Cloud and Version Control Tools
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -49,14 +49,14 @@
 </p>
 <hr />
 
-### Learning Platform:
+### Learning Platform
 [NPTEL](https://nptel.ac.in/) | 
 [Future Learn](https://www.futurelearn.com/) | [Metagenomics](https://sites.google.com/site/wiki4metagenomics/pdf?authuser=0) |
 [MIT OpenCourseWare](https://www.youtube.com/c/mitocw) | [Stanfordonline](https://www.youtube.com/user/stanfordonline) |  [Brilliant.org](https://brilliant.org/home/)
 </p>
 <hr />
 
-#### References:  
+#### References  
 Prof. Rita Sharma, Professor, and Thesis Supervisor, SCIS-JNU New Delhi, India.
 Email: rita.genomics@gmail.com   Tel:+919958312717
 
