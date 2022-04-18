@@ -13,6 +13,7 @@
 > *  :v: I'm open to opportunities
 > *  :zap: Fun Fact: Eat, Read, Sleep and Walk
 > *  :handshake: If you want any collaboration feel free to connet with me at 🌐 [![Discord Badge](https://img.shields.io/badge/-mahendrasingh-white?style=flat-square&logo=discord&logoColor=black&link=https://discord.com/login?redirect_to=%2Fchannels%2FMahendra%2520Singh)](https://discord.com/login?redirect_to=%2Fchannels%2FMahendra%2520Singh) [![Linkedin Badge](https://img.shields.io/badge/-mahendrasingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahendra-singh-5aa7216b/)](https://www.linkedin.com/in/mahendra-singh-5aa7216b/) [![Twitter Badge](https://img.shields.io/badge/-mahendrasingh-white?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/smahendra360)](https://twitter.com/smahendra360) 
+> * For more information please look back to my [CV](https://github.com/Mahendra687/Mahendra687-/blob/main/cv.ipynb) here
 ### ⚡ Technologies
 
 #### Language
