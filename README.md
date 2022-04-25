@@ -38,9 +38,9 @@
 
 #### Notebook
 
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-
-  
+<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25"/>
+ 
+	  
 #### Cloud and Version Control Tools
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -64,9 +64,6 @@ Email: rita.genomics@gmail.com   Tel:+919958312717
 Prof. Shandar Ahmad, Professor, SCIS-JNU New Delhi, India. 
 Email: shandar@jnu.ac.in Tel: 7290889021 
 
-Mr. Praharshit Sharma, Bioinformatics Specialist, 
-at National Centre for Disease Control, New Delhi,
-Email: sharmaji@iscb.org Tel: +91 799 515 8734
 </p>
 <hr />
 
