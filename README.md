@@ -6,7 +6,7 @@
          height="45"
          width="45" /> 
 Great to see you here :) 
-> I am Mahendra, and I have done PGDiploma Big Data Analytics in Bioinformatics from [SCIS, Jawaharlal Nehru University, New Delhi](https://jnu.ac.in/scis) apart from that, I have a master's in Bioinformatics from [UIET, CSJM University, Kanpur](http://csjmu.ac.in/uiet-kanpur/departments/computer-science-and-engineering/) and have a bachelor in Biotechnology from [AKSU, Satna](https://www.aksuniversity.ac.in/index.php/academics/life-sciences-technology). And my ultimate goal is to pursue areas of research interest in Bioinformatics: Omics data science, Metabolomics engineering, Computational drug discovery, RNAi biology by applying Machine learning, AI, and NLP approaches to solve the biological and health care problems.
+
 ### Key area of research interest: I have developed a keen interest to apply the knowledge I would gain in
 > * Omics data science: the link between gene, protein and diseases
 > * Data Science: ML, AI, NLP and Biological Image Analysis
