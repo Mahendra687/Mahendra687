@@ -1,6 +1,3 @@
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/mahendrasingh?v=3) 
-
 **Hi**__<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -72,8 +69,8 @@ Email: shandar@jnu.ac.in Tel: 7290889021
 </p>
 <hr />
 
-#### 📈 Stats
-[![Mahendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mahendra687&theme=xcode)](https://git.io/mahendrasingh)
+#### 📈 Stats [![Mahendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mahendra687&theme=xcode)](https://git.io/mahendrasingh)
+
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahendrasingh&show_icons=true&theme=radical" />
@@ -83,7 +80,8 @@ Email: shandar@jnu.ac.in Tel: 7290889021
 #### Random Quote..✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
 #### Thank you, for visiting my GitHub profile!!
 
-😷 | 🪴 🏃‍♂️ 🍃 🏋️‍ ⛹️‍ 🧘‍ 🎧 | 🎯 🖥️ 🧬 🦠 🧫 🧪 📊 | 🕉️ ✡️ 🕎 ✝️
+😷 | 🪴 🏃‍♂️ 🍃 🏋️‍ ⛹️‍ 🧘‍ 🎧 | 🎯 🖥️ 🧬 🦠 🧫 🧪 📊 | 🕉️ ✡️ 🕎 ✝️ 
+
+![Profile views](https://komarev.com/ghpvc/?username=mahendrasingh)
