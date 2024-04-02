@@ -84,4 +84,4 @@ Email: shandar@jnu.ac.in Tel: 7290889021
 
 😷 | 🪴 🏃‍♂️ 🍃 🏋️‍ ⛹️‍ 🧘‍ 🎧 | 🎯 🖥️ 🧬 🦠 🧫 🧪 📊 | 🕉️ ✡️ 🕎 ✝️ 
 
-![Profile views](https://komarev.com/ghpvc/?username=mahendrasingh)
+![Profile views](https://komarev.com/ghpvc/?username=mahendrasingh) 
