@@ -72,9 +72,9 @@ Email: shandar@jnu.ac.in Tel: 7290889021
 #### 📈 Stats [![Mahendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mahendra687&theme=xcode)](https://git.io/mahendrasingh)
 
 <p align="center">
-	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahendrasingh&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahendra687&theme=tokyonight" />
+  
 </p>
 
 #### Random Quote..✍️
