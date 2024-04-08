@@ -49,6 +49,8 @@ Great to see you here :)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Nextflow](https://img.shields.io/badge/-Nextflow-informational?style=flat-square&logo=nextflow)
+
 </p>
 <hr />
 
